@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "907063519034",
+    "firebase_url": "https://maths-ncert-solution-12.firebaseio.com",
+    "project_id": "maths-ncert-solution-12",
+    "storage_bucket": "maths-ncert-solution-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907063519034:android:7c2f8c5b146c904d",
+        "android_client_info": {
+          "package_name": "com.learncbse.maths12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907063519034-3hngfe0osqan1hnej6jfobhj3agicpc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learncbse.maths12",
+            "certificate_hash": "731bdf0587f63d0154174e5637269681b5dbabbd"
+          }
+        },
+        {
+          "client_id": "907063519034-stqrvoi5qqkjl4phkgp8ph1bmjceougf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrKdH6f4Q3pP5SBXOa4_uCm0JGZIV09k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907063519034-stqrvoi5qqkjl4phkgp8ph1bmjceougf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

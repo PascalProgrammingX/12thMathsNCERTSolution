@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">12 Maths NCERT Solution</string>
+    <string name="header_text">12 Maths NCERT Solution </string>
+    <string name="ad_mob_id">ca-app-pub-9391715869846599~2394845850</string>
+    <string name="banner_id">ca-app-pub-9391715869846599/9170462602</string>
+    <string name="interstitial_id">ca-app-pub-9391715869846599/2678697134</string>
+    <string name="title_activity_home">12 MATHS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="read">Read</string>
+    <string name="formula">FORMULA</string>
+    <string name="notes">NOTES</string>
+    <string name="solution">SOLUTION</string>
+    <string name="textbooks">TEXTBOOKS</string>
+
+</resources>
